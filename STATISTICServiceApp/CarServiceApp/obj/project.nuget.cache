@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAreVzEgAqo=",
+  "success": true,
+  "projectFilePath": "\\\\iscsi\\profstud\\LukushinAV\\Desktop\\CarServiceApp\\CarServiceApp\\CarServiceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LukushinAV\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
